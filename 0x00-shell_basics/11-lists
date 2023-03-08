@@ -1,3 +1,2 @@
 #!/bin/bash
-cd -
-ls -lan /boot
+cd - ls -lan /boot
